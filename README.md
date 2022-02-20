@@ -1,4 +1,3 @@
-npm create vite@latest
-cd <project>
-npm i
-npm run dev
+# Breakout
+
+Breakout game with Vite, HTML Canvas, Typescript
